@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ssendikadiwa Stephen
 - 👀 I’m interested in fullstack Javascript web development
-- 🌱 I’m currently learning Angular.js
-- 💞️ I’m looking to collaborate on Angular projects
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on React projects
 - 📫 You can get in touch with me via sendi.stev@gmail.com
 
 <!---
