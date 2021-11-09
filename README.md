@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ssendikadiwa Stephen
-- 👀 I’m interested in fullstack Javascript web development
-- 🌱 I’m currently learning React.js
+- 👀 A computer scientist with passion for frontend web developemt
 - 💞️ I’m looking to collaborate on React projects
 - 📫 You can get in touch with me via sendi.stev@gmail.com
 
