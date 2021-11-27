@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ssendikadiwa Stephen
-- 👀 A computer scientist with passion for frontend web developemt
-- 💞️ I’m looking to collaborate on React projects
+- 👀 A software engineer with 3 years of overall software experience. 
+- 💞️ 2 years of React, Node, GraphQL with strong emphasis on Typescript.
+- ✨ Targeting UI, frontend specific roles. 
 - 📫 You can get in touch with me via sendi.stev@gmail.com
 
 <!---
