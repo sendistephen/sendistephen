@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ssendikadiwa Stephen
 - 👀 A software engineer with 4 years of overall software experience. 
-- 💞️ 3 years of React with strong emphasis on Typescript.
+- 💞️ 4 years of React with strong emphasis on Typescript.
 - ✨ Targeting UI, frontend specific roles. 
 - 📫 You can get in touch with me via sendi.stev@gmail.com
 
