@@ -3,9 +3,6 @@
 
 ✨ Targeting UI, frontend specific roles. 
 
-📫 You can get in touch with me via sendi.stev@gmail.com
-
-
 **Technologies I work with:**
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
@@ -18,6 +15,8 @@
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+📫 You can get in touch with me via sendi.stev@gmail.com
 
 
 <!---
