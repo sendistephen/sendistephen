@@ -1,7 +1,7 @@
 # Hi 👋, I’m Stephen Ssendikadiwa
-✨ Senior Frontend Developer with expertise in modern web technologies. I create high-performance applications that are scalable and maintainable.
+✨ Software Enginner with expertise in modern web technologies. I create high-performance applications that are scalable and maintainable.
 
-✨ Targeting UI, frontend specific roles. 
+✨ Targeting backend, frontend specific roles. 
 
 **Technologies I work with:**
 
